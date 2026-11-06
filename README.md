@@ -9,6 +9,7 @@ Repositorio personal donde documento mi progreso diario aprendiendo Python desde
 | Día | Proyecto / Concepto | Tecnologías / Temas Clave | Estado |
 |:---:|:---|:---|:---:|
 | **01** | [Calculadora y Conversor CLI](./01-calculadora-conversor) | Variables, tipos de datos, `input()`, condicionales (`if/elif/else`), funciones | ✅ Completado |
+| **02** | [Adivina el Número Secreto](./02-adivina-el-numero) | Módulo `random`, bucles `while`, validación con `try/except`, control de flujo | ✅ Completado |
 
 ---
 
